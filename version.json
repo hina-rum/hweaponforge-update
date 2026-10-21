@@ -1,6 +1,6 @@
 {
   "version": "1.7.5",
-  "url": "https://github.com/hina-rum/hweaponforge-update/releases/tag/v1.7.5",
+  "url": "https://github.com/hina-rum/hweaponforge-update/releases/download/v1.7.5/hWeaponForge.exe",
   "sha256": "18067c4d171ae8610039c21937ed41b13c3d504a3f4526f683e54180a1736a48",
-  "sig": "d7f9fe50db6602c134dcce360dc9b93a2de72d833f0b3f56b1f5ef45de95d57c440036ddb9d4213848bf27419308b61326b72eacad26f44dbd6b58119ad73909"
+  "sig": "11c3ac690c7914c3d1e558ca3ae6874a93cdefe8bc7bfd11a3f4cd41ee0e58e2914ad4e666abb2bf44073ff1946c14d9972cfe80e36455c66f5e3ac267573f0b"
 }
