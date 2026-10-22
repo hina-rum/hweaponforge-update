@@ -1,7 +1,7 @@
 {
-  "version": "1.7.8",
-  "url": "https://github.com/hina-rum/hweaponforge-update/releases/download/v1.7.8/hWeaponForge.exe",
-  "sha256": "484e18a1fb96a0423813853708d5d48883a825046eed1f49c670b1eb9e480a64",
-  "notes": "アプデ自動再起修正",
-  "sig": "e75bc8649abd898089c1aeacf8a5347c2a217875f41b74baba09a805a97366bf82442e8c761fe87e9a5db462d5a88deb0269144d3dfe3bcf1b74925f474c380a"
+  "version": "1.8.1",
+  "url": "https://github.com/hina-rum/hweaponforge-update/releases/download/v1.8.1/hWeaponForge.exe",
+  "sha256": "b44f6c38792819dc2fff9d841dd83c62873fed86ffd143311271d4cfff7aae9c",
+  "notes": "XML⇄ydr/ycd等の変換ページを追加、XMLの自動変換に対応、ファイル単位のドロップ取り込み、zip書き出しでフォルダを残さないように変更",
+  "sig": "4816eff7cbcad43482118ee4db68c765438f38dc8cc9d715b052e30357b9d7fe7b53ce3eebe87206a48399794dc3e899bb9cbae19cf073cd4cb6f34d365c5605"
 }
