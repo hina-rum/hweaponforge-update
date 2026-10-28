@@ -1,7 +1,7 @@
 {
-  "version": "1.8.2",
-  "url": "https://github.com/hina-rum/hweaponforge-update/releases/download/v1.8.2/hWeaponForge.exe",
-  "sha256": "e4863724b0a413b858fdef4cd777a642e872767f1912e1da18f3d1c6d5099ece",
-  "notes": "xml変換が正常に動かなかったのを修正",
-  "sig": "db7376338d439b98463bf07fd63f9aaa55ecff15fee6d12ea1d66c5b8a904ab7c775d338eb918b3aa714d365f568cd7345505eef6a6773dde6a9a4c9dcb7ac00"
+  "version": "1.8.3",
+  "url": "https://github.com/hina-rum/hweaponforge-update/releases/download/v1.8.3/hWeaponForge.exe",
+  "sha256": "f22cd41b7f2b57679bf4252a196b050ffd69adab8795fb758fa58bf9389176d3",
+  "notes": "rpf pumpshotgunの追加",
+  "sig": "751ed0924e7d14e59cc368d147dae6a3fff720f95a1c44e879cc67668fc07514f49dd2d7cd0efc73a4d86c5662f877d7dbcd456b07d6564bd53062752c225501"
 }
