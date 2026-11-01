@@ -1,7 +1,7 @@
 {
-  "version": "1.8.5",
-  "url": "https://github.com/hina-rum/hweaponforge-update/releases/download/v1.8.5/hWeaponForge.exe",
-  "sha256": "26474541ba631380437baf30870f46c3c2271ee60b04b8df6c9520cb9d6ba2cf",
-  "notes": "ライセンスの期限の表示",
-  "sig": "e3828ebf1ecd1f564b97d222b4ea04ae468769d07adfb8c7800f16dcc0ecff2fa40a3da117052cc39afe2afb6a233808f7a7ed70575969481d970bf2632bf80d"
+  "version": "1.8.6",
+  "url": "https://github.com/hina-rum/hweaponforge-update/releases/download/v1.8.6/hWeaponForge.exe",
+  "sha256": "ce1cd6235f378c2bd528661e1f9d2d88d0accd68110089b07df83329679c4fd4",
+  "notes": "画像作成、YTD → PNG / DDS、画面の改善、🎃 ハロウィン仕様",
+  "sig": "52201bc457c352c21e1b3f1b14dfaca4fac250aa44e5fabe54b9a6e9f7238abc235471970cc9b7cee79a3c6199b3bff584dc515dfec7da7882704e097a090906"
 }
